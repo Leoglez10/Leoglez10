@@ -39,7 +39,7 @@ I lean hard on AI coding agents: custom skills, workflows and end-to-end automat
 ## 📌 Currently
 
 - Final year of Computer Engineering @ CUCEI (UdeG)
-- Full-stack developer at **Nexplea**
+- Independent full-stack developer collaborating with **Nexplea** on projects (not an employee)
 - **Open to internships and junior full-stack roles** — Guadalajara or remote
 
 <p align="center">
