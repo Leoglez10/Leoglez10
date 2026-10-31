@@ -33,7 +33,7 @@
 | [xignis-app](https://github.com/Leoglez10/xignis-app) | HR app for leave & absence requests: 4 roles, 2-level approval | Android/iOS build with CI, Vitest + Playwright | React · TypeScript · Capacitor · Supabase |
 | [finanzas](https://github.com/Leoglez10/finanzas) | Native macOS personal finance app: envelope budget, scheduled payments, bundled MCP server | AI assistants can read and log spending; fully local, no cloud | Swift · SwiftUI · SwiftData · MCP |
 
-**Side projects** — [coucou](https://github.com/Leoglez10/coucou) (notch companion for Claude Code sessions) · [smart-home-local](https://github.com/Leoglez10/smart-home-local) (WiZ lights from the macOS menu bar, no cloud)
+**Side projects** — [smart-home-local](https://github.com/Leoglez10/smart-home-local) (WiZ lights from the macOS menu bar, no cloud)
 
 ## 🧰 Stack
 
