@@ -52,6 +52,14 @@ I lean hard on AI coding agents: custom skills, workflows and end-to-end automat
 - Independent full-stack developer collaborating with **Nexplea** on projects (not an employee)
 - **Open to internships and junior full-stack roles** — Guadalajara or remote
 
+## 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leoglez10/Leoglez10/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leoglez10/Leoglez10/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated snake crossing Leo's GitHub contribution calendar" src="https://raw.githubusercontent.com/Leoglez10/Leoglez10/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 ---
 
