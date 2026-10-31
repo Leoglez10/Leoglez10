@@ -14,6 +14,14 @@
 
 ---
 
+<table>
+  <tr>
+    <td align="center" width="33%"><a href="https://github.com/Leoglez10/app-prestamos-p15"><img src="assets/app-prestamos-p15.jpg" alt="App Préstamos P15 home screen"/></a><br/><sub><b>app-prestamos-p15</b> · equipment lending in production</sub></td>
+    <td align="center" width="33%"><a href="https://github.com/Leoglez10/finanzas"><img src="assets/finanzas.jpg" alt="Finanzas macOS dashboard with sample data"/></a><br/><sub><b>finanzas</b> · native macOS app + MCP server</sub></td>
+    <td align="center" width="33%"><a href="https://github.com/Leoglez10/code-kingdoms"><img src="assets/code-kingdoms.jpg" alt="Code Kingdoms pixel-art overworld"/></a><br/><sub><b>code-kingdoms</b> · pixel-art game to learn to code</sub></td>
+  </tr>
+</table>
+
 ## 🚀 What I've shipped
 
 | Project | What it does | Impact | Stack |
@@ -23,18 +31,20 @@
 | [analisis-se-nexplea](https://github.com/Leoglez10/analisis-se-nexplea) | Socioeconomic report generator for an HR company | **80%+ faster** per client vs. the manual process, 10–30 clients/week | React · Firebase · Docker · Gemini |
 | [guanajuatonosune.org](https://guanajuatonosune.org) | Public web platform for the State of Guanajuato | Live in production, presented at official press conferences | React · forms + database |
 | [xignis-app](https://github.com/Leoglez10/xignis-app) | HR app for leave & absence requests: 4 roles, 2-level approval | Android/iOS build with CI, Vitest + Playwright | React · TypeScript · Capacitor · Supabase |
-| [agent-skills](https://github.com/Leoglez10/agent-skills) | LLM-first `SKILL.md` collection for coding agents | Works with Claude Code, OpenCode and Codex | Prompt engineering |
+| [finanzas](https://github.com/Leoglez10/finanzas) | Native macOS personal finance app: envelope budget, scheduled payments, bundled MCP server | AI assistants can read and log spending; fully local, no cloud | Swift · SwiftUI · SwiftData · MCP |
+
+**Side projects** — [coucou](https://github.com/Leoglez10/coucou) (notch companion for Claude Code sessions) · [smart-home-local](https://github.com/Leoglez10/smart-home-local) (WiZ lights from the macOS menu bar, no cloud)
 
 ## 🧰 Stack
 
 **Frontend** — React · Next.js · TypeScript · Tailwind CSS · Vite · React Native (Expo)
 **Backend & data** — Node.js · Python · PHP · Supabase · Firebase · PostgreSQL · MySQL · SQLite
-**Desktop & mobile** — Tauri · Rust · Capacitor
+**Desktop & mobile** — Swift · SwiftUI · SwiftData · Tauri · Rust · Capacitor
 **Infra & tooling** — Docker · Git · GitHub Actions · Vitest · Playwright · Linux
 
 ## 🤖 How I work
 
-I lean hard on AI coding agents: custom skills, workflows and end-to-end automations used to design architecture and ship faster. I also come from hands-on hardware and software debugging, which is where I learned to read systems end-to-end instead of guessing.
+I lean hard on AI coding agents: custom skills, workflows and end-to-end automations used to design architecture and ship faster. I publish my skills as [agent-skills](https://github.com/Leoglez10/agent-skills), an LLM-first `SKILL.md` collection for Claude Code, OpenCode and Codex. I also come from hands-on hardware and software debugging, which is where I learned to read systems end-to-end instead of guessing.
 
 ## 📌 Currently
 
@@ -42,10 +52,6 @@ I lean hard on AI coding agents: custom skills, workflows and end-to-end automat
 - Independent full-stack developer collaborating with **Nexplea** on projects (not an employee)
 - **Open to internships and junior full-stack roles** — Guadalajara or remote
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leoglez10&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leoglez10&layout=compact&hide_border=true&langs_count=8" height="150" />
-</p>
 
 ---
 
