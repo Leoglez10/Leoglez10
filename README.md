@@ -35,7 +35,7 @@
 
 **Side projects** — [smart-home-local](https://github.com/Leoglez10/smart-home-local) (WiZ lights from the macOS menu bar, no cloud)
 
-**Open source** — contributor to [coucou](https://github.com/Louis-CFM/coucou), a macOS notch companion for coding agents: Pi sessions in the notch and an OpenCode Go chat provider ([PR #633](https://github.com/Louis-CFM/coucou/pull/633))
+**Open source** — [PR #633](https://github.com/Louis-CFM/coucou/pull/633) to [coucou](https://github.com/Louis-CFM/coucou), a macOS notch companion for coding agents: Pi sessions in the notch and an OpenCode Go chat provider (in review)
 
 ## 🧰 Stack
 
