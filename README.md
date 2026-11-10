@@ -28,7 +28,7 @@
 | --- | --- | --- | --- |
 | [app-prestamos-p15](https://github.com/Leoglez10/app-prestamos-p15) | Desktop inventory & equipment-lending system for Preparatoria 15 (UdeG) | **100+ teachers**, **1,000+ devices**, automated PDF reports | Tauri · React · TypeScript · SQLite |
 | [Tae-Foto-P15](https://github.com/Leoglez10/Tae-Foto-P15) | Fully offline desktop app for photo & A/V equipment lending | **~120 students** across 4 groups, zero internet required | Tauri · Rust · SQLite |
-| [analisis-se-nexplea](https://github.com/Leoglez10/analisis-se-nexplea) | Socioeconomic report generator for an HR company | **80%+ faster** per client vs. the manual process, 10–30 clients/week | React · Firebase · Docker · Gemini |
+| GeneradorSocioeconomicosNexplea | Web platform that turns socioeconomic study intake into branded PDF reports for an HR company | AI data extraction, voice dictation, photos and attached PDFs merged into one report | React · Vite · Node.js · Puppeteer · Firebase · Gemini · Docker |
 | [guanajuatonosune.org](https://guanajuatonosune.org) | Public web platform for the State of Guanajuato | Live in production, presented at official press conferences | React · forms + database |
 | [xignis-app](https://github.com/Leoglez10/xignis-app) | HR app for leave & absence requests: 4 roles, 2-level approval | Android/iOS build with CI, Vitest + Playwright | React · TypeScript · Capacitor · Supabase |
 | [finanzas](https://github.com/Leoglez10/finanzas) | Native macOS personal finance app: envelope budget, scheduled payments, bundled MCP server | AI assistants can read and log spending; fully local, no cloud | Swift · SwiftUI · SwiftData · MCP |
